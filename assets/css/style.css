@@ -1,7 +1,7 @@
 * {
     box-sizing: border-box;
   }
-
+/* Changes the color of the header as well as the size,color,and style of the font*/
 .header {
     padding:40px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, 'Times New Roman', Times, serif;
@@ -9,27 +9,28 @@
     font-size: 25px;
 }
 
+/*Changes the major background color to green */
 .body {
     background-color: olivedrab;
 }
-
+/*Brings Nav bar to the center of page*/
 Nav {
     
     text-align: center
 
 
 }
-
+/*Arranges links in the nav bar eliminating bullet points and displaying inline*/
 li {
     list-style: none;
     display:inline-flex;
     padding:10px;
 }
-
+/*changes default link color to black*/
 a {
     color:black;
 }
-
+/*make the images more responsib using flex*/
 img {
     display:flex;
     flex-direction:column;
@@ -42,6 +43,7 @@ img {
 
 }
 
+/*Groups the titles together so they call all be in the center*/
 h5,h4,h3,h2,h6,p {
     text-align:center;
     font-size: 25px; 
