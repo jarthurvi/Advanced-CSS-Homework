@@ -1,2 +1,2 @@
 # Professional Portfolio
-This is a portfolio page for the recording artist RaStar. The navigation menu links scroll down to their corresponding sections upon clicking. The site is responsive and both the pictures and the words are easily read in large or small page sizes. The picture links navigate the user to the different songs when applicable.
+This is a portfolio page for the recording artist RaStar. The navigation menu links scroll down to their corresponding sections upon clicking. The site is responsive and both the pictures and the words are easily read in large or small page sizes. The picture links navigate the user to the different songs when applicable. Click on the piano picture to see updated projects, linkedin, and git hub profile pages. 
